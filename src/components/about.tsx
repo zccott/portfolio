@@ -86,7 +86,7 @@ export const About: React.FC = () => {
 
               <Button
                 as={Link}
-                href="https://drive.google.com/file/d/1bwL8biu7KMjQjXV84Nd3_WxeJJbzCpUU/view?usp=drivesdk"
+                href="https://drive.google.com/file/d/10vp81RVSZhhdysMvzjt_BPwx5K0lxvkV/view?usp=drivesdk"
                 variant="bordered"
                 color="primary"
                 endContent={<Icon icon="lucide:download" />}
